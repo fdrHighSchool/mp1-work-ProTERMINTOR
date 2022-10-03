@@ -2,9 +2,9 @@
 ## fall-22-mp1-work
 
 
-### Last Name:  
-### First Name: 
-### GitHub Username: 
+### Last Name:  Arocho
+### First Name: Michael
+### GitHub Username: ProTERMINTOR
 
 ---
 #### General Workflow: 
